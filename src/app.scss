@@ -1,0 +1,19 @@
+body{
+  background: grey;
+  text-align: center;
+
+  h1 {
+    color: purple;
+  }
+
+  a {
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 0;
+  }
+}
